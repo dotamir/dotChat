@@ -12,7 +12,7 @@ Simple chat application with react-native and firebase
 And you have to install ```Expo``` application on your device (IOS, Android) to open app in local development.
 
 ## Thanks to
-1. [FaridSafi](https://github.com/FaridSafi/), Creator GiftedChat which i used that on this work.
+1. [FaridSafi](https://github.com/FaridSafi/), Creator of GiftedChat which i used that on this work.
 
 
 ## License
