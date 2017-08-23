@@ -2,7 +2,7 @@
 Simple chat application with react-native and firebase
 
 ## Preview
-![Screenshot](Screenshot.png)
+[Screenshot](Screenshot.png)
 
 ## Local development
 
